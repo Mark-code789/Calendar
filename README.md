@@ -9,9 +9,9 @@ Have not included comments in the code since the variables and code is simple to
 
 here is the code 
 <code>
-<!DOCTYPE html>
-<html>
-	<head>
+&lt;!DOCTYPE html&gt;
+&lt:html&gt;
+	   &lt;head&gt;
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Calendar</title>
