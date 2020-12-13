@@ -8,10 +8,10 @@ Have not separated the individual files. Hence, its just a single HTML file with
 Have not included comments in the code since the variables and code is simple to understand. 
 
 here is the code 
-<code>
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-	   &lt;head&gt;
+
+<!DOCTYPE html>
+<html>
+	   <head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Calendar</title>
@@ -355,4 +355,3 @@ here is the code
 		</script>
 	</body>
 </html>
-</code>
